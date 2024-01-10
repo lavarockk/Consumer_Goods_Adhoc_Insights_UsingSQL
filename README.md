@@ -195,7 +195,7 @@ where rank_order <=3;
 
 In the project, I delved into 10 Ad-hoc queries, unraveling key details about top products, customers, markets, and crucial metrics like gross price, pre-invoice deductions, manufacturing costs, and sales quantity. “It's all about turning data into actionable insights!"
 
-LinkedIn: www.linkedin.com/in/v-s-santhi-anantha-71634a27a
+LinkedIn: https://www.linkedin.com/in/venkata-siva-santhi-anantha-71634a27a/
 
 I would like to thank @Dhaval Patel, @Hemanand Vadivel, and the entire @Codebasics team for this wonderful opportunity. 
 
